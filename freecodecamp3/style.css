@@ -1,0 +1,126 @@
+body {
+    background-color: rgb(241, 237, 237);
+}
+.fas {
+    font-size: 25px;
+    width: 300px;
+    display: flex;
+}
+.menu {
+    height: auto;
+    width: 400px;
+}
+.features, .how, .pricing  {
+    width: 100px;
+    height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 25px;
+    text-align: center;
+    transform: translateX(880px);
+    margin-top: -120px;
+    background-color: none;
+    transition: 1s;
+}
+.pricing:hover {
+    background-color: rgb(3, 226, 22);
+}
+.how:hover {
+    background-color: rgb(3, 226, 22);
+}
+.features:hover {
+    background-color: rgb(3, 226, 22);
+}
+.mmail {
+    width: 300px;
+    height: 120px;
+    text-align: center;
+    transform: translateX(500px);
+}
+.mail {
+    text-align: center;
+    border-radius: 55px;
+    height: 30px;
+    width: 250px;
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50px;
+    margin: 13px;
+    transition: 1.5s;
+}
+.btn:hover {
+    background-color: rgb(3, 226, 22);
+}
+.fast {
+    margin-top: 50px;
+    transform: translateX(515px);
+}
+.vid {
+    margin-top: 80px;
+    transform: translateX(380px);
+}
+.mt{
+    width: 900px;
+    margin: 20px;
+    display: flex;
+    transform: translateX(240px);
+}
+h1{
+    padding: 25px;
+    text-align: center;
+    margin-top: -20px;
+}
+h2 {
+    text-align: center;
+    background-color: rgb(112, 108, 108);
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+    transform: translateY(-15px);
+}
+.card1{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    background-color: none;
+    border: 2px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card2{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    background-color: none;
+    border: 2px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card3{
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    background-color:none;
+    border: 2px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.buto{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: yellow;
+    transform: translateX(75px);
+    margin-top: 100px;
+}
+.buto:hover {
+    background-color: green;
+}
+.guitar {
+    width: 100px;
+    height: 100px;
+    transform: translateX(60px);
+    margin-top: px;
+}

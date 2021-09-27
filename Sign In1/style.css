@@ -1,0 +1,67 @@
+.bgv{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+.signin{
+    color: rgb(0, 38, 255);
+}
+.login{
+    height: 250px;
+    width: 400px;
+    margin-top: 200px;
+    z-index: 1;
+}
+.username{
+    border: none;
+    display: block;
+    margin: 25px;
+    text-align: center;
+    border: 2px solid #ff0000;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.50s;
+    background: #000202;
+}
+.username :hover{
+    background-color: red;
+}
+.password{
+    border: none;
+    display: block;
+    margin: 25px;
+    text-align: center;
+    border: 2px solid #ff0000;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.50s;
+    background: #000202;
+}
+.button{
+    border: none;
+    display: block;
+    text-align: center;
+    border: 2px solid #1eff00;
+    padding: 8px 8px;
+    width: 65px;
+    height: 35px;
+    border-radius: 35px;
+    cursor: pointer;
+    color: black;
+    background-color: rgb(16, 216, 42);
+    transition: 0.25s;
+}
+.button :hover{
+    background-color: red;
+}

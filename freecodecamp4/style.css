@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+.mt {
+    height: 800px;
+    width: 200px;
+    display: contents;
+}
+.text {
+    width: 87%;
+    height: auto;
+    transform: translateX(180px);
+    margin-top: -275px;
+    background-color: yellow;
+}
+h2 {
+    transform: translateX(500px);
+}
+h4 {
+    font-family: sans-serif;
+}
